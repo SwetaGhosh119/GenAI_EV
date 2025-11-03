@@ -48,21 +48,33 @@ Modules:
 
 🧠 Tech Stack
 Component                 Tools / Libraries
+
 Language                  Python 3.10+
+
 ML / DL                   Scikit-learn, TensorFlow, PyTorch
+
 Data Handling             Pandas, NumPy
+
 Visualization             Matplotlib, Seaborn
+
 Generative Models         Wasserstein Conditional GAN
+
 Chatbot                   HuggingFace Transformers / LangChain
+
 Frontend                  Streamlit / Flask + React
+
 Protocol Simulated        OCPP 1.6 (Central System – EVCS)
 
 📈 Evaluation Metrics
 
 🔶Accuracy
+
 🔶Precision, Recall, F1-score
+
 🔶ROC-AUC Curve
+
 🔶Confusion Matrix
+
 🔶Temporal anomaly metrics (for LSTM models)
 
 📚 References
@@ -97,5 +109,7 @@ https://www.iso.org/standard/82769.html
 
 ✨Contributor
 Sweta Ghosh (@SwetaGhosh119)
+
 Netaji Subhas Engineering College
+
 Email: britneyspears9246@gmail.com
