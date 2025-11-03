@@ -80,29 +80,20 @@ Modules:
 📚 References
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔹Hussain, R., et al. “Cybersecurity in Electric Vehicle Charging Infrastructure: Challenges and Solutions.” IEEE Transactions on Smart Grid, 2022.
-https://doi.org/10.1109/TSG.2022.3142023
+🔹Intrusion Detection for Electric Vehicle Charging Systems (EVCS)
+Published in Algorithms, 2023.
+Focuses on machine‐learning based IDS applied to EVCS ecosystem (IoT component)
 
-🔹Mohamed, N., et al. “A Deep Learning-Based Intrusion Detection System for Electric Vehicle Charging Stations.” IEEE Access, 2021.
-https://doi.org/10.1109/ACCESS.2021.3076372
+🔹Cyber defense in OCPP for EV charging security risks
+Published 2025 in Information and Computer Security (Springer).
 
-🔹Hafeez, I., et al. “Electric Vehicle Charging Infrastructure: Vulnerabilities, Attacks, and Countermeasures.” IEEE Transactions on Transportation Electrification, 2020.
-https://doi.org/10.1109/TTE.2020.3037489
+🔹Federated detection of Open Charge Point Protocol 1.6 cyberattacks
+Published 2025.
+Presents an FL (federated learning)-based IDS architecture for OCPP 1.6 traffic.
 
-🔹Dutta, D., et al. “Temporal Convolutional Neural Networks for Network Intrusion Detection.” Computer Networks, 2022.
-https://doi.org/10.1016/j.comnet.2022.109180
-
-🔹Zhang, J., et al. “Wasserstein GAN-Based Data Augmentation for Imbalanced Intrusion Detection.” IEEE Access, 2020.
-https://doi.org/10.1109/ACCESS.2020.2966011
-
-🔹Wu, T., et al. “A Federated Learning-Based Intrusion Detection System for Electric Vehicle Networks.” IEEE Internet of Things Journal, 2023.
-https://doi.org/10.1109/JIOT.2023.3235402
-
-🔹Open Charge Alliance. “OCPP 1.6 Specification.”
-https://www.openchargealliance.org/protocols/ocpp-16/
-
-🔹ISO 15118-20 (Vehicle-to-Grid Communication Interface) – Defines secure communication between EVs and CSMS.
-https://www.iso.org/standard/82769.html
+🔹Explainable Deep Learning for Cyber Attack Detection in Electric Vehicle Charging Stations
+Published (2023).
+Focuses on deep learning + explainability applied in EVCS intrusion detection.
 
 🔹Buedi, Emmanuel Dana, et al. "Enhancing EV Charging Station Security Using a Multi-Dimensional Dataset: CICEVSE2024." IFIP Annual Conference on Data and Applications Security and Privacy. 
 
