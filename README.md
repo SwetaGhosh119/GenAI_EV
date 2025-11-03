@@ -47,23 +47,17 @@ Modules:
 ⮞Gen-AI Chatbot – explain IDS results and assist EVCS operators
 
 🧠 Tech Stack
-Component                                                                                                                                   Tools / Libraries
 
-Language                                                                                                                                    Python 3.10+
-
-ML / DL                                                                                                                                     Scikit-learn, TensorFlow, PyTorch
-
-Data Handling                                                                                                                               Pandas, NumPy
-
-Visualization                                                                                                                               Matplotlib, Seaborn
-
-Generative Models                                                                                                                           Wasserstein Conditional GAN
-
-Chatbot                                                                                                                                     HuggingFace Transformers / LangChain
-
-Frontend                                                                                                                                    Streamlit / Flask + React
-
-Protocol Simulated                                                                                                                          OCPP 1.6 (Central System – EVCS)
+|  Component        |    Tools / Libraries                |
+|:-----------------:|:-----------------------------------:|
+|  Language	        |    Python 3.10+                     |
+|  ML / DL          |    Scikit-learn, TensorFlow, PyTorch|
+|  Data Handling    |	    Pandas, NumPy                   |
+|  Visualization    |	   Matplotlib, Seaborn              |  
+|  Generative Models|    	Wasserstein Conditional GAN     |
+|  Chatbot	        | HuggingFace Transformers / LangChain|
+|  Frontend         |  Streamlit / Flask + React          |
+|Protocol Simulated |  OCPP 1.6 (Central System – EVCS)   |
 
 📈 Evaluation Metrics
 
