@@ -47,23 +47,23 @@ Modules:
 ⮞Gen-AI Chatbot – explain IDS results and assist EVCS operators
 
 🧠 Tech Stack
-Component                 Tools / Libraries
+Component                                                                                                                                   Tools / Libraries
 
-Language                  Python 3.10+
+Language                                                                                                                                    Python 3.10+
 
-ML / DL                   Scikit-learn, TensorFlow, PyTorch
+ML / DL                                                                                                                                     Scikit-learn, TensorFlow, PyTorch
 
-Data Handling             Pandas, NumPy
+Data Handling                                                                                                                               Pandas, NumPy
 
-Visualization             Matplotlib, Seaborn
+Visualization                                                                                                                               Matplotlib, Seaborn
 
-Generative Models         Wasserstein Conditional GAN
+Generative Models                                                                                                                           Wasserstein Conditional GAN
 
-Chatbot                   HuggingFace Transformers / LangChain
+Chatbot                                                                                                                                     HuggingFace Transformers / LangChain
 
-Frontend                  Streamlit / Flask + React
+Frontend                                                                                                                                    Streamlit / Flask + React
 
-Protocol Simulated        OCPP 1.6 (Central System – EVCS)
+Protocol Simulated                                                                                                                          OCPP 1.6 (Central System – EVCS)
 
 📈 Evaluation Metrics
 
@@ -108,6 +108,7 @@ https://www.iso.org/standard/82769.html
 🔹“EVSE Dataset 2024 | Datasets | Research | Canadian Institute for Cybersecurity.” University of New Brunswick, https://www.unb.ca/cic/datasets/evse-dataset-2024.html. 
 
 ✨Contributor
+
 Sweta Ghosh (@SwetaGhosh119)
 
 Netaji Subhas Engineering College
