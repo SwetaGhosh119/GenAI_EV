@@ -2,8 +2,10 @@
 Intrusion Detection Model for Electric Vehicles (GenAI Approach)🚗🪫🔌⚡️⚠️🔒
 
 ⚡ Temporal Secure Intrusion Detection System for Electric Vehicle Charging (OCPP 1.6)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📖 Overview
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project implements a temporal secure Intrusion Detection System (IDS) for Electric Vehicle Charging Stations (EVCS) communicating via the Open Charge Point Protocol (OCPP 1.6).
 The system leverages Machine Learning (ML), Deep Learning (CNN/LSTM), Wasserstein Conditional GAN (WCGAN) for data generation, and an integrated Gen-AI Chatbot to enhance security awareness and interpretability.
@@ -21,6 +23,7 @@ Power Consumption: Features readings showing variations in power usage between s
 This dataset enables behavioral profiling, anomaly detection, and performance evaluation of EV charging systems. It supports both statistical and machine learning-based methods, making it a key asset for uncovering and analyzing vulnerabilities in EV infrastructure.
 
 🚀 Objectives
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✅️Detect cyberattacks and anomalies in EV charging communication traffic.
 
@@ -33,6 +36,7 @@ This dataset enables behavioral profiling, anomaly detection, and performance ev
 🧩 System Architecture
 
 Modules:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⮞Data Preprocessing & Cleaning – from OCPP event logs
 
@@ -47,6 +51,7 @@ Modules:
 ⮞Gen-AI Chatbot – explain IDS results and assist EVCS operators
 
 🧠 Tech Stack
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 |  Component        |    Tools / Libraries                |
 |:-----------------:|:-----------------------------------:|
@@ -60,6 +65,7 @@ Modules:
 |Protocol Simulated |  OCPP 1.6 (Central System – EVCS)   |
 
 📈 Evaluation Metrics
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔶Accuracy
 
@@ -72,6 +78,7 @@ Modules:
 🔶Temporal anomaly metrics (for LSTM models)
 
 📚 References
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔹Hussain, R., et al. “Cybersecurity in Electric Vehicle Charging Infrastructure: Challenges and Solutions.” IEEE Transactions on Smart Grid, 2022.
 https://doi.org/10.1109/TSG.2022.3142023
@@ -102,6 +109,7 @@ https://www.iso.org/standard/82769.html
 🔹“EVSE Dataset 2024 | Datasets | Research | Canadian Institute for Cybersecurity.” University of New Brunswick, https://www.unb.ca/cic/datasets/evse-dataset-2024.html. 
 
 ✨Contributor
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sweta Ghosh (@SwetaGhosh119)
 
